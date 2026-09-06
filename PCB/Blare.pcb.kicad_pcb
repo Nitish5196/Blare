@@ -25980,7 +25980,7 @@
 		(layer "F.Cu")
 		(uuid "35477828-c9a1-41bb-b83d-8c2edbbe0820")
 		(at 237 103)
-		(property "Reference" "G***"
+		(property "Reference" ""
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "b2820188-fed5-4f40-ae25-6c12c7cb0ea4")
@@ -38381,7 +38381,7 @@
 		(uuid "77e9cb12-c3fd-49c3-956a-f5232a9fed2c")
 	)
 	(gr_text "BLARE\n    -by Nitish:)"
-		(at 204 80 0)
+		(at 208.164096 80.661866 0)
 		(layer "F.Cu")
 		(uuid "140674af-7a58-4330-94e1-6cb853a4ce48")
 		(effects
@@ -38406,7 +38406,7 @@
 		)
 	)
 	(gr_text "BLARE \n    -by Nitish:)"
-		(at 204 80 0)
+		(at 208.164096 80.661866 0)
 		(layer "F.Mask")
 		(uuid "d3946e7b-12be-439d-8036-3bfb16837bac")
 		(effects
