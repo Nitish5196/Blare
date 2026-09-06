@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Blare_v2.kicad_pro",
+    "filename": "Blare.pcb.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "gerber/",
       "specctra_dsn": "",
-      "step": "gerber/Blare_v2.step",
+      "step": "Blare_v2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
