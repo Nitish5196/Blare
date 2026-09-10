@@ -3,6 +3,8 @@ The Blare clock's <b>theme</b> is honey bees cause the creator likes honey bees 
 <li>the top of the case is intentionally left open for us to admire the beautiful Seeed XIAO ESP32C3 and the art on the PCB </li>
 <li>The clock normally shows the time but when you set the alarm lets say fot 6am , at 6am it buzzes and plays the selected ringtone and a <b>random sequence </b>will appear on the display you need to enter the sequence displayed correctly to disarm the alarm </li><br></ul>
 <img width="992" height="390" alt="Screenshot 2026-09-06 175111" src="https://github.com/user-attachments/assets/f6299e10-fc92-47e0-bb1d-25d32b8f9770" />
+<img width="737" height="268" alt="image" src="https://github.com/user-attachments/assets/d99bc229-3750-46c2-9b64-c60609497e28" />
+
 <img width="1071" height="534" alt="Screenshot 2026-09-06 193137" src="https://github.com/user-attachments/assets/e29e5691-e9b5-420e-a048-502f6c789ccf" />
 <img width="967" height="509" alt="image" src="https://github.com/user-attachments/assets/b777c0d9-307e-4dca-8d2e-d69abb3059fe" />
 <img width="725" height="395" alt="image" src="https://github.com/user-attachments/assets/e481dadc-3f1e-4fc4-9189-fa80ace50f35" />
