@@ -14,6 +14,9 @@ The Blare clock's <b>theme</b> is honey bees cause the creator likes honey bees 
 <img width="475" height="539" alt="image" src="https://github.com/user-attachments/assets/a480463d-a890-45ca-af02-01bda88720d9" />
 <img width="702" height="330" alt="image" src="https://github.com/user-attachments/assets/f57e892e-85d8-49bb-b63c-fbdd0d2fdff3" />
 <img width="805" height="345" alt="image" src="https://github.com/user-attachments/assets/b84385f9-7158-4859-924c-e18e88564c04" />
+<img width="1047" height="599" alt="Screenshot 2026-09-10 182822" src="https://github.com/user-attachments/assets/6e1f9437-c680-45a2-bcd4-b3430ba57406" />
+
+
 <br>BOM: <ul>
 <li> Seeed XIAO ESP32C3 -1</li>
 <li> MX-Style Keyboard Switches -4</li>
